@@ -1,0 +1,91 @@
+.logowanie{
+    position: absolute;
+    left: 20rem;
+    right: 10rem;
+    top: 3rem;
+    margin: 0 auto;
+    background-color: rgb(130, 130, 130);
+    border-radius: 4px;
+    width: 20rem;
+    height: 20rem;
+    box-shadow: 1px 1px 20px;
+}
+h1{
+    position: absolute;
+    left: 5rem;
+    font-family: Arial
+}
+.nazwa{
+    position: absolute;
+    top: 3rem;
+    left:1.5rem;
+    font-family: Arial
+
+}
+.haslo{
+    position: absolute;
+    top: 6.5rem;
+    left: 1.5rem;
+    font-family: Arial
+}
+button{
+    position: absolute;
+    top:14rem;
+    left: 6.5rem;
+    font-size: 20px;
+    border-radius: 4px;
+    transition: all 150ms ease;
+    font-family: Arial
+}
+button:hover{
+    position: absolute;
+    top:14rem;
+    left: 6.5rem;
+    font-size: 20.2px;
+    border-radius: 6px;
+    border-color: rgb(0, 145, 255);
+    font-family: Arial
+
+}
+.hasło{
+    position: absolute;
+    top: 9rem;
+    left: 1.5rem;
+    width: 7cm;
+    border-radius: 4px;
+    border-color: rgb(255, 255, 255);
+    
+}
+.hasło:hover{
+    position: absolute;
+    top: 9rem;
+    left: 1.5rem;
+    width: 7cm;
+    border-radius: 4px;
+    border-color: rgb(0, 106, 255);
+}
+.tekst{
+    position: absolute;
+    top: 5.5rem;
+    left: 1.5rem;
+    width: 7cm;
+    border-radius: 4px;
+    border-color: rgb(255, 255, 255);
+    
+}
+.tekst:hover{
+    position: absolute;
+    top: 5.5rem;
+    left: 1.5rem;
+    width: 7cm;
+    border-radius: 4px;
+    border-color: rgb(0, 76, 255);
+}
+h2{
+    position: absolute;
+    top:10rem;
+    font-size: 15px;
+    left:1.5rem;
+    font-family: Arial
+}
+    
